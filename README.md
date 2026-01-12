@@ -8,3 +8,5 @@ resolviendo conflictos entre diferentes versiones y ramas.
 
 ### Agradecimientos a el instituto que me permite estudiar _DAW:_
 (https://portal.edu.gva.es/iessalvadorgadea/)
+
+![imagen del logo del Salvador Gadea](logo salvador gadea.jpg)
