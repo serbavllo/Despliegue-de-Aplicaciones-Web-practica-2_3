@@ -1,0 +1,13 @@
+body {
+  background-color: #e0f7fa;
+  background-image: url(logo_github.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 500px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #006064;
+  text-align: left;
+}
